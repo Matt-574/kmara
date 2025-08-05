@@ -1,0 +1,211 @@
+{
+  "numbers": {
+    "billions": "billions"
+  },
+  "navbar": {
+    "home": "Home",
+    "product": "Product",
+    "about": "About Us",
+    "india": "India"
+  },
+  "footer": {
+    "about": "K-MARA HEALTHCARE: Revolutionizing emergency cardiac diagnostics with rapid, precise technology.",
+    "quick_links": "Quick Links",
+    "copyright": "© {year} K-MARA HEALTHCARE, S.L. All rights reserved."
+  },
+  "hero": {
+    "title_part1": "Rapid Diagnostics,",
+    "title_part2": "Life-Saving Decisions",
+    "subtitle": "Our innovative point-of-care test for chest pain delivers results in minutes, enabling doctors to act with speed and confidence when every second counts.",
+    "productButton": "Discover the Product",
+    "missionButton": "Our Mission"
+  },
+  "home_introduction": {
+    "title": "Redefining Emergency Cardiac Diagnostics",
+    "subtitle": "In the race against time, precision and speed are everything. K-MARA introduces a game-changing solution for risk stratification of chest pain patients.",
+    "text": "Our rapid diagnostic test (RDT) is not just a tool; it's a strategic ally in the emergency room. By simultaneously measuring two crucial cardiac biomarkers, Heart-type Fatty Acid-Binding Protein (H-FABP) and Troponin I (cTnl), we offer clinicians a clear, early view of a patient's risk of a Major Adverse Cardiac Event (MACE) within the next 30 days. This allows for faster, more informed decision-making, optimizing hospital resources and, most importantly, improving patient outcomes."
+  },
+  "home_benefits": {
+    "title": "Key Benefits at the Point of Care",
+    "benefit1_title": "Unmatched Speed",
+    "benefit1_desc": "Results in 15 minutes, enabling immediate medical action and reducing uncertainty.",
+    "benefit2_title": "High Accuracy",
+    "benefit2_desc": "A Negative Predictive Value (NPV) of 99.5% to confidently rule out MACE at 30 days.",
+    "benefit3_title": "Operational Efficiency",
+    "benefit3_desc": "Reduces the burden on central labs and streamlines patient flow in the emergency department.",
+    "benefit4_title": "Resource Optimization",
+    "benefit4_desc": "Decreases unnecessary admissions and re-evaluations, saving costs and hospital resources."
+  },
+  "home_trust": {
+    "title": "Built on a Foundation of Trust and Quality",
+    "subtitle": "We aren't just innovating; we're setting a new standard in cardiac diagnostics. Our credibility is built on robust manufacturing, scientific validation, and adherence to the strictest regulations.",
+    "manufacturing_title": "ISO 13485:2016 Quality Manufacturing",
+    "manufacturing_desc": "Every test is manufactured in the UK by our partner Biopanda Reagents Ltd., under the strict ISO standard for medical devices.",
+    "validation_title": "Scientifically Validated",
+    "validation_desc": "Our technology has been validated in clinical studies, proving its efficacy and accuracy in real-world settings.",
+    "ce_title": "CE Certified",
+    "ce_desc": "The product complies with European Union directives, ensuring its safety and performance."
+  },
+  "product_header": {
+    "title": "Chest Pain Analyzer",
+    "subtitle": "The Ultimate Tool for Cardiac Risk Stratification in the ER",
+    "feature1": "Unmatched speed",
+    "feature2": "High precision",
+    "feature3": "Optimized Efficiency",
+    "feature4": "Easy to perform"
+  },
+  "product_biomarkers": {
+    "title": "The Power of Two: H-FABP and Troponin I",
+    "subtitle": "The combination of an early diagnostic biomarker (H-FABP) with the gold standard (Troponin I) provides an unparalleled diagnostic window.",
+    "hfabp_title": "H-FABP: The Early Indicator of Ischemia",
+    "hfabp_desc": "H-FABP is released into the bloodstream within 30 minutes of an ischemic event, much earlier than troponin. Its early detection is crucial for identifying high-risk patients who need immediate attention.",
+    "ctnl_title": "Troponin I (cTnl): The Gold Standard for Necrosis",
+    "ctnl_desc": "cTnl is the preferred biomarker for detecting damage to the heart muscle (necrosis), but its elevation can take hours. It is the standard for diagnostic confirmation."
+  },
+  "product_timeline": {
+    "title": "Combined Detection Window",
+    "subtitle": "Visualize how the early detection of H-FABP complements the late confirmation of Troponin I, covering the entire spectrum of the cardiac event.",
+    "timeline_hfabp": "Early detection (30 min)",
+    "timeline_ctnl": "Late confirmation (2-4 hrs)"
+  },
+  "product_table": {
+    "title": "Product Specifications",
+    "feature": "Feature",
+    "specification": "Specification",
+    "spec1": "Assay Time",
+    "spec1_val": "15 minutes",
+    "spec2": "Sample",
+    "spec2_val": "Whole Blood / Serum / Plasma",
+    "spec3": "Sample Volume",
+    "spec3_val": "80 µL",
+    "spec4": "Storage",
+    "spec4_val": "2-30°C"
+  },
+  "product_results": {
+    "title": "Clear and Simple Interpretation",
+    "subtitle": "The device displays the results individually for each biomarker, allowing for a quick and unambiguous interpretation.",
+    "hfabp_positive": "H-FABP Positive",
+    "hfabp_positive_desc": "Indicates a high risk of MACE within 30 days. Requires immediate action.",
+    "ctnl_positive": "cTnl Positive",
+    "ctnl_positive_desc": "Confirms the presence of myocardial damage (heart attack).",
+    "both_negative": "Both Negative",
+    "both_negative_desc": "High confidence in ruling out an adverse cardiac event (NPV >99.5%)."
+  },
+  "product_guide": {
+    "title": "Quick Use Guide",
+    "step1_title": "Sample Collection",
+    "step1_desc": "Collect the patient's whole blood, serum, or plasma sample.",
+    "step2_title": "Apply Sample",
+    "step2_desc": "Apply the required amount of sample to the well of the test cassette.",
+    "step3_title": "Wait for Results",
+    "step3_desc": "Wait 15 minutes for the reaction to complete.",
+    "step4_title": "Read Results",
+    "step4_desc": "Read the result lines for H-FABP and cTnl in the viewing window."
+  },
+  "about_us": {
+    "philosophy": {
+      "title": "Our Philosophy",
+      "subtitle": "Innovation with a human purpose.",
+      "history": "Our History",
+      "history_desc": "Founded after more than a decade of R&D in in-vitro diagnostics for emergency cardiology.",
+      "mission": "Mission",
+      "mission_desc": "To develop innovative diagnostic solutions that improve medical efficiency and patient lives.",
+      "vision": "Vision",
+      "vision_desc": "To integrate the CHEST PAIN ANALYZER into healthcare systems worldwide within the next 5 years.",
+      "values": "Values",
+      "values_desc": "Human-centric R&D to optimize healthcare spending and global medical care."
+    },
+    "ecosystem": {
+      "title": "Our Global Ecosystem of Excellence",
+      "subtitle": "A connected international network for global impact.",
+      "spain_desc": "Nerve center for global strategy, R&D, and business development.",
+      "uk_desc": "Certified manufacturing (ISO 13485:2016) ensuring the highest quality.",
+      "india_desc": "Operational and strategic subsidiary for the crucial Asian market."
+    },
+    "advisory": {
+      "title": "Guided by Science: The Medical Advisory Board",
+      "subtitle": "Clinical credibility as the cornerstone of our innovation.",
+      "text_1": "At K-MARA, we operate under the guidance of a <strong>Medical Advisory Board (MAB)</strong>, a standard practice in the most reputable medical device companies.",
+      "bullet_1": "Ensures our products meet unmet medical needs.",
+      "bullet_2": "Validates the direction of our research and development.",
+      "bullet_3": "Guides our market access strategy, building trust.",
+      "doctor_name": "Dr. Miguel Angel López Aranda",
+      "doctor_role": "Head of the Medical Advisory Board",
+      "doctor_desc": "Cardiologist at <strong>Grupo Quirónsalud</strong> and <strong>IMED Hospitals</strong>. His leadership ensures our solutions are clinically relevant and scientifically sound."
+    },
+    "team": {
+      "title": "A Management Team with a Global Vision",
+      "member1_role": "International Business Development",
+      "member1_desc": "With a degree in Information Sciences, she brings vast experience in international business development and tech companies.",
+      "member2_role": "International Development Manager",
+      "member2_desc": "Trained in Administration and Finance, she leads the global introduction of the Chest Pain Analyzer.",
+      "member3_role": "Founder and Director of K-MARA CARE (India)",
+      "member3_desc": "With a three-decade career, he is the cornerstone of our strategy in India and our international expansion.",
+      "more_button": "Learn More"
+    },
+    "gallery": {
+      "title": "Certificate and Publication Gallery",
+      "subtitle": "Our technology is backed by solid scientific and regulatory evidence."
+    }
+  },
+  "india": {
+    "stats": {
+        "title": "The Challenge: A Nation Under Cardiac Siege",
+        "subtitle": "India is facing a public health crisis of epidemic proportions. CVDs are the leading cause of mortality, affecting the population a decade earlier than in the West and causing a devastating economic impact.",
+        "stat1": "of the Global Burden of Heart Disease",
+        "stat2": "of CVD deaths occur in people under 70",
+        "stat3": "projected economic loss by 2030 (USD)"
+    },
+    "team": {
+        "title": "Our Response: A Strategic Team",
+        "subtitle": "To address this challenge, we have established K-MARA CARE PRIVATE LIMITED (CIN: U33119KA2022PTC160611), led by a team of experts with unparalleled influence and experience.",
+        "col_name": "Name and Key Role",
+        "col_value": "Strategic Value for India",
+        "col_source": "Source",
+        "member1_name": "Dr. Sekhar Kidambi (Founder/Director)",
+        "member1_value": "Leads the strategic vision and merges global resources with local needs for flawless execution.",
+        "member2_name": "Dr. B. K. Tiwary (Public Relations Director)",
+        "member2_value": "Expert in communicating with key government officials, ministries, and agencies to facilitate adoption into the public health system.",
+        "member3_name": "Cdr. Pramoda Chandra Dash (Retd) (Operational Leadership)",
+        "member3_value": "With over 35 years of experience in the Navy, he manages logistics and large-scale projects to ensure efficient distribution.",
+        "member4_name": "Dr. N. Madana Mohan Reddy (Strategic Advisor)",
+        "member4_value": "A cardiologist by training, he designs roadmaps for building distributor and channel partner networks.",
+        "member5_name": "Mr. K. Nagarjuna Reddy (Strategic Advisor)",
+        "member5_value": "Leverages his network in pharmaceutical associations to promote product access at the community level.",
+        "member6_name": "Mr. Karthik Maheshwaram (President - TECCI)",
+        "member6_value": "As leader of the Telangana Chamber of Commerce and Industry, he provides vital business influence and experience.",
+        "member7_name": "Mr. Y.P. Jayachandra Reddy (Director)",
+        "member7_value": "An influential entrepreneur in Bangalore, he provides the administrative infrastructure and promotes K-MARA CARE's services."
+    },
+    "gallery": {
+        "title": "Official Certificate Gallery",
+        "subtitle": "Trust and regulatory compliance are the foundation of our operation.",
+        "cert1_title": "Certificate of Incorporation (India)",
+        "cert1_details": "Company: K-MARA CARE PRIVATE LIMITED<br/>CIN: U33119KA2022PTC160611<br/>Date: April 27, 2022",
+        "cert2_title": "CE Declaration of Conformity (Europe)",
+        "cert2_details": "Product: H-FABP/cTnl Rapid Test (RAPG-FTI-001)<br/>Complies with: Directive 98/79/EC<br/>Manufacturer: Biopanda Reagents Ltd. (ISO 13485:2016)"
+    },
+    "pitch": {
+        "title": "Specialized Information for the Government of India",
+        "text_1": "The K-MARA CARE team in India, with government relations experts like Dr. B. K. Tiwary, is prepared to collaborate with government agencies and ministries to integrate the CHEST PAIN ANALYZER into public health programs, emergency triage systems, and national tenders.",
+        "text_2": "Our goal is to be a strategic partner to the Indian government in the fight against cardiovascular diseases, offering a solution that not only saves lives, but also drastically optimizes healthcare spending and aligns with national health priorities, such as the rise of telecardiology and remote patient monitoring.",
+        "bullet1_title": "Strategic Partner",
+        "bullet1_desc": "Direct collaboration to combat CVD at a national level.",
+        "bullet2_title": "Resource Optimization",
+        "bullet2_desc": "Reduction of healthcare spending through efficient diagnostics.",
+        "bullet3_title": "Aligned with Telecardiology",
+        "bullet3_desc": "Support for national digital health priorities."
+    },
+    "training": {
+      "title": "Innovation and Continuous Training",
+      "text_1": "At K MARA Care India, we not only provide diagnostic solutions but also strengthen medical knowledge through specialized training programs.",
+      "text_2": "Our Global Training Division, under the direction of Dr. Sekhar Kidambi, trains health professionals in the proper use of rapid diagnostic technologies, ensuring international standards and better integration into local health systems.",
+      "point1_title": "Fast and accessible diagnostics",
+      "point1_desc": "Results in minutes, without the need for laboratory infrastructure.",
+      "point2_title": "Focus on high-impact diseases",
+      "point2_desc": "Solutions designed for the early detection of cardiovascular and metabolic diseases.",
+      "point3_title": "Professional training",
+      "point3_desc": "Continuous training to improve the adoption of advanced technologies."
+    }
+  }
+}

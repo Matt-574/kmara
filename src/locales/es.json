@@ -1,0 +1,211 @@
+{
+  "numbers": {
+    "billions": "billones"
+  },
+  "navbar": {
+    "home": "Inicio",
+    "product": "Producto",
+    "about": "Sobre Nosotros",
+    "india": "India"
+  },
+  "footer": {
+    "about": "K-MARA HEALTHCARE: Revolucionando el diagnóstico cardíaco de emergencia con tecnología rápida y precisa.",
+    "quick_links": "Enlaces Rápidos",
+    "copyright": "© {year} K-MARA HEALTHCARE, S.L. Todos los derechos reservados."
+  },
+  "hero": {
+    "title_part1": "Diagnóstico Rápido,",
+    "title_part2": "Decisiones que Salvan Vidas",
+    "subtitle": "Nuestra innovadora prueba en el punto de atención para el dolor torácico ofrece resultados en minutos, permitiendo a los médicos actuar con rapidez y confianza cuando cada segundo cuenta.",
+    "productButton": "Descubre el Producto",
+    "missionButton": "Nuestra Misión"
+  },
+  "home_introduction": {
+    "title": "Redefiniendo el Diagnóstico Cardíaco de Emergencia",
+    "subtitle": "En la carrera contra el tiempo, la precisión y la velocidad son todo. K-MARA presenta una solución que cambia las reglas del juego en la estratificación del riesgo de pacientes con dolor torácico.",
+    "text": "Nuestra prueba de diagnóstico rápido (PDR) no es solo una herramienta, es un aliado estratégico en la sala de emergencias. Al medir simultáneamente dos biomarcadores cardíacos cruciales, la Proteína de Unión a Ácidos Grasos de tipo Cardíaco (H-FABP) y la Troponina I (cTnl), ofrecemos a los médicos una visión clara y temprana del riesgo de un Evento Cardíaco Adverso Mayor (MACE) en los próximos 30 días. Esto permite una toma de decisiones más rápida e informada, optimizando los recursos hospitalarios y, lo más importante, mejorando los resultados para los pacientes."
+  },
+  "home_benefits": {
+    "title": "Beneficios Clave en el Punto de Atención",
+    "benefit1_title": "Velocidad Inigualable",
+    "benefit1_desc": "Resultados en 15 minutos, permitiendo una acción médica inmediata y reduciendo la incertidumbre.",
+    "benefit2_title": "Alta Precisión",
+    "benefit2_desc": "Un Valor Predictivo Negativo (VPN) del 99.5% para descartar MACE a 30 días con confianza.",
+    "benefit3_title": "Eficiencia Operativa",
+    "benefit3_desc": "Reduce la carga en los laboratorios centrales y agiliza el flujo de pacientes en urgencias.",
+    "benefit4_title": "Optimización de Recursos",
+    "benefit4_desc": "Disminuye ingresos innecesarios y re-evaluaciones, ahorrando costes y recursos hospitalarios."
+  },
+  "home_trust": {
+    "title": "Construido sobre una Base de Confianza y Calidad",
+    "subtitle": "No solo estamos innovando, estamos estableciendo un nuevo estándar en diagnóstico cardíaco. Nuestra credibilidad se basa en una fabricación robusta, validación científica y el cumplimiento de las normativas más estrictas.",
+    "manufacturing_title": "Fabricación de Calidad ISO 13485:2016",
+    "manufacturing_desc": "Cada prueba es fabricada en el Reino Unido por nuestro socio Biopanda Reagents Ltd., bajo la estricta normativa ISO para dispositivos médicos.",
+    "validation_title": "Validado Científicamente",
+    "validation_desc": "Nuestra tecnología ha sido validada en estudios clínicos, demostrando su eficacia y precisión en entornos del mundo real.",
+    "ce_title": "Certificación CE",
+    "ce_desc": "El producto cumple con las directivas de la Unión Europea, asegurando su seguridad y rendimiento."
+  },
+  "product_header": {
+    "title": "Chest Pain Analyzer",
+    "subtitle": "La Herramienta Definitiva para la Estratificación del Riesgo Cardíaco en Urgencias",
+    "feature1": "Velocidad inigualable",
+    "feature2": "Alta precisión",
+    "feature3": "Eficiencia Optimizada",
+    "feature4": "Fácil de realizar"
+  },
+  "product_biomarkers": {
+    "title": "El Poder de Dos: H-FABP y Troponina I",
+    "subtitle": "La combinación de un biomarcador de diagnóstico temprano (H-FABP) con el estándar de oro (Troponina I) proporciona una ventana de diagnóstico sin precedentes.",
+    "hfabp_title": "H-FABP: El Indicador Precoz de Isquemia",
+    "hfabp_desc": "La H-FABP se libera en el torrente sanguíneo a los 30 minutos de un evento isquémico, mucho antes que la troponina. Su detección temprana es crucial para identificar a pacientes de alto riesgo que necesitan atención inmediata.",
+    "ctnl_title": "Troponina I (cTnl): El Estándar de Oro para Necrosis",
+    "ctnl_desc": "La cTnl es el biomarcador preferido para detectar el daño al músculo cardíaco (necrosis), pero su elevación puede tardar horas. Es el estándar para la confirmación diagnóstica."
+  },
+  "product_timeline": {
+    "title": "Ventana de Detección Combinada",
+    "subtitle": "Visualice cómo la detección temprana de H-FABP complementa la confirmación tardía de Troponina I, cubriendo todo el espectro del evento cardíaco.",
+    "timeline_hfabp": "Detección temprana (30 min)",
+    "timeline_ctnl": "Confirmación tardía (2-4 hrs)"
+  },
+  "product_table": {
+    "title": "Especificaciones del Producto",
+    "feature": "Característica",
+    "specification": "Especificación",
+    "spec1": "Tiempo de Ensayo",
+    "spec1_val": "15 minutos",
+    "spec2": "Muestra",
+    "spec2_val": "Sangre total / Suero / Plasma",
+    "spec3": "Volumen de Muestra",
+    "spec3_val": "80 µL",
+    "spec4": "Almacenamiento",
+    "spec4_val": "2-30°C"
+  },
+  "product_results": {
+    "title": "Interpretación Clara y Sencilla",
+    "subtitle": "El dispositivo muestra los resultados de forma individual para cada biomarcador, permitiendo una interpretación rápida y sin ambigüedades.",
+    "hfabp_positive": "H-FABP Positivo",
+    "hfabp_positive_desc": "Indica un alto riesgo de MACE en 30 días. Requiere acción inmediata.",
+    "ctnl_positive": "cTnl Positivo",
+    "ctnl_positive_desc": "Confirma la presencia de daño miocárdio (infarto de miocardio).",
+    "both_negative": "Ambos Negativos",
+    "both_negative_desc": "Alta confianza para descartar un evento cardíaco adverso (VPN >99.5%)."
+  },
+  "product_guide": {
+    "title": "Guía de Uso Rápido",
+    "step1_title": "Toma de Muestra",
+    "step1_desc": "Recoger la muestra de sangre total, suero o plasma del paciente.",
+    "step2_title": "Aplicar Muestra",
+    "step2_desc": "Aplicar la cantidad requerida de muestra al pocillo del casete de prueba.",
+    "step3_title": "Esperar Resultados",
+    "step3_desc": "Esperar 15 minutos para que la reacción se complete.",
+    "step4_title": "Leer Resultados",
+    "step4_desc": "Leer las líneas de resultado para H-FABP y cTnl en la ventana de visualización."
+  },
+  "about_us": {
+    "philosophy": {
+      "title": "Nuestra Filosofía",
+      "subtitle": "Innovación con un propósito humano.",
+      "history": "Nuestra Historia",
+      "history_desc": "Fundada tras más de una década de I+D en diagnóstico in vitro para cardiología de emergencia.",
+      "mission": "Misión",
+      "mission_desc": "Desarrollar soluciones de diagnóstico innovadoras para mejorar la eficiencia médica y la vida de los pacientes.",
+      "vision": "Visión",
+      "vision_desc": "Integrar el CHEST PAIN ANALYZER en sistemas sanitarios de todo el mundo en los próximos 5 años.",
+      "values": "Valores",
+      "values_desc": "Innovación con propósito humano para optimizar el gasto sanitario y la atención médica global."
+    },
+    "ecosystem": {
+      "title": "Nuestro Ecosistema Global de Excelencia",
+      "subtitle": "Una red internacional conectada para un impacto global.",
+      "spain_desc": "Centro neurálgico para la estrategia global, I+D y desarrollo de negocio.",
+      "uk_desc": "Fabricación certificada (ISO 13485:2016) que garantiza la máxima calidad.",
+      "india_desc": "Filial operativa y estratégica para el crucial mercado asiático."
+    },
+    "advisory": {
+      "title": "Guiados por la Ciencia: El Consejo Asesor Médico",
+      "subtitle": "La credibilidad clínica como pilar de nuestra innovación.",
+      "text_1": "En K-MARA, operamos bajo la guía de un <strong>Consejo Asesor Médico (MAB)</strong>, una práctica estándar en las empresas de dispositivos médicos más reputadas.",
+      "bullet_1": "Asegura que nuestros productos respondan a necesidades médicas no cubiertas.",
+      "bullet_2": "Valida la dirección de nuestra investigación y desarrollo.",
+      "bullet_3": "Guía nuestra estrategia de acceso al mercado, generando confianza.",
+      "doctor_name": "Dr. Miguel Angel López Aranda",
+      "doctor_role": "Jefe del Consejo Asesor Médico",
+      "doctor_desc": "Cardiólogo en <strong>Grupo Quirónsalud</strong> e <strong>IMED Hospitales</strong>. Su liderazgo asegura que nuestras soluciones sean clínicamente relevantes y científicamente sólidas."
+    },
+    "team": {
+      "title": "Un Equipo Directivo con Visión Global",
+      "member1_role": "Desarrollo de Negocios Internacionales",
+      "member1_desc": "Licenciada en Ciencias de la Información, aporta su vasta experiencia en desarrollo de negocios internacionales y empresas tecnológicas.",
+      "member2_role": "Gerente de Desarrollo Internacional",
+      "member2_desc": "Formada en Administración y Finanzas, lidera la introducción global del Chest Pain Analyzer.",
+      "member3_role": "Fundador y Director de K-MARA CARE (India)",
+      "member3_desc": "Con una carrera de tres décadas, es el pilar de nuestra estrategia en la India y nuestra expansión internacional.",
+      "more_button": "Conocer más"
+    },
+    "gallery": {
+      "title": "Galería de Certificados y Publicaciones",
+      "subtitle": "Nuestra tecnología está respaldada por una sólida evidencia científica y regulatoria."
+    }
+  },
+  "india": {
+    "stats": {
+        "title": "El Desafío: Una Nación Bajo Asedio Cardíaco",
+        "subtitle": "La India se enfrenta a una crisis de salud pública de proporciones epidémicas. Las ECV son la principal causa de mortalidad, afectando a la población una década antes que en Occidente y causando un impacto económico devastador.",
+        "stat1": "de la Carga Mundial de Enfermedades Cardíacas",
+        "stat2": "de las muertes por ECV ocurren en menores de 70 años",
+        "stat3": "de pérdida económica proyectada para 2030 (USD)"
+    },
+    "team": {
+        "title": "Nuestra Respuesta: Un Equipo Estratégico",
+        "subtitle": "Para abordar este desafío, hemos establecido K-MARA CARE PRIVATE LIMITED (CIN: U33119KA2022PTC160611), liderada por un equipo de expertos con una influencia y experiencia inigualables.",
+        "col_name": "Nombre y Cargo Clave",
+        "col_value": "Valor Estratégico para la India",
+        "col_source": "Fuente",
+        "member1_name": "Dr. Sekhar Kidambi (Fundador/Director)",
+        "member1_value": "Lidera la visión estratégica y une los recursos globales con las necesidades locales para una ejecución impecable.",
+        "member2_name": "Dr. B. K. Tiwary (Director de Relaciones Públicas)",
+        "member2_value": "Experto en la comunicación con funcionarios clave del gobierno, ministerios y agencias para facilitar la adopción en el sistema de salud público.",
+        "member3_name": "Cdr. Pramoda Chandra Dash (Retd) (Liderazgo Operativo)",
+        "member3_value": "Con más de 35 años de experiencia en la Marina, gestiona la logística y los proyectos a gran escala para asegurar una distribución eficiente.",
+        "member4_name": "Dr. N. Madana Mohan Reddy (Asesor Estratégico)",
+        "member4_value": "Cardiólogo de formación, diseña las hojas de ruta para construir redes de distribuidores y socios de canal.",
+        "member5_name": "Mr. K. Nagarjuna Reddy (Asesor Estratégico)",
+        "member5_value": "Aprovecha su red en asociaciones farmacéuticas para promover el acceso al producto a nivel comunitario.",
+        "member6_name": "Mr. Karthik Maheshwaram (Presidente - TECCI)",
+        "member6_value": "Como líder de la Cámara de Comercio e Industria de Telangana, aporta una influencia y experiencia empresarial vital.",
+        "member7_name": "Mr. Y.P. Jayachandra Reddy (Director)",
+        "member7_value": "Empresario influyente en Bangalore, proporciona la infraestructura administrativa y promueve los servicios de K-MARA CARE."
+    },
+    "gallery": {
+        "title": "Galería de Certificados Oficiales",
+        "subtitle": "La confianza y el cumplimiento normativo son la base de nuestra operación.",
+        "cert1_title": "Certificado de Incorporación (India)",
+        "cert1_details": "Empresa: K-MARA CARE PRIVATE LIMITED<br/>CIN: U33119KA2022PTC160611<br/>Fecha: 27 de abril de 2022",
+        "cert2_title": "Declaración de Conformidad CE (Europa)",
+        "cert2_details": "Producto: H-FABP/cTnl Rapid Test (RAPG-FTI-001)<br/>Cumple: Directiva 98/79/EC<br/>Fabricante: Biopanda Reagents Ltd. (ISO 13485:2016)"
+    },
+    "pitch": {
+        "title": "Información Especializada para el Gobierno de la India",
+        "text_1": "El equipo de K-MARA CARE en la India, con expertos en relaciones gubernamentales como el Dr. B. K. Tiwary, está preparado para colaborar con las agencias gubernamentales y ministerios para integrar el CHEST PAIN ANALYZER en los programas de salud pública, sistemas de triaje de emergencia y licitaciones a nivel nacional.",
+        "text_2": "Nuestro objetivo es ser un socio estratégico del gobierno indio en la lucha contra las enfermedades cardiovasculares, ofreciendo una solución que no solo salva vidas, sino que también optimiza drásticamente el gasto sanitario y se alinea con las prioridades nacionales de salud, como el auge de la telecardiología y el monitoreo remoto de pacientes.",
+        "bullet1_title": "Socio Estratégico",
+        "bullet1_desc": "Colaboración directa para combatir las ECV a nivel nacional.",
+        "bullet2_title": "Optimización de Recursos",
+        "bullet2_desc": "Reducción del gasto sanitario a través de diagnósticos eficientes.",
+        "bullet3_title": "Alineado con Telecardiología",
+        "bullet3_desc": "Soporte a las prioridades nacionales de salud digital."
+    },
+    "training": {
+      "title": "Innovación y Capacitación Continua",
+      "text_1": "En K MARA Care India, no solo proveemos soluciones diagnósticas, sino que también fortalecemos el conocimiento médico a través de programas de formación especializada.",
+      "text_2": "Nuestro Global Training Division, bajo la dirección del Dr. Sekhar Kidambi, capacita a profesionales de la salud en el uso adecuado de tecnologías rápidas de diagnóstico, asegurando estándares internacionales y una mejor integración en los sistemas de salud locales.",
+      "point1_title": "Diagnósticos rápidos y accesibles",
+      "point1_desc": "Resultados en minutos, sin necesidad de infraestructura de laboratorio.",
+      "point2_title": "Enfoque en enfermedades de alto impacto",
+      "point2_desc": "Soluciones diseñadas para la detección temprana de enfermedades cardiovasculares y metabólicas.",
+      "point3_title": "Capacitación profesional",
+      "point3_desc": "Entrenamientos continuos para mejorar la adopción de tecnologías avanzadas."
+    }
+  }
+}
