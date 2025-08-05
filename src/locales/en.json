@@ -129,9 +129,15 @@
       "bullet_1": "Ensures our products meet unmet medical needs.",
       "bullet_2": "Validates the direction of our research and development.",
       "bullet_3": "Guides our market access strategy, building trust.",
+      "ralf_name": "Ralf Ulrich",
+      "ralf_role": "CEO and Co-founder",
+      "ralf_desc": "Ralf Ulrich CEO and co-founder of K-MARA Healthcare. The Contract and Finance Management department is responsible for contractual cooperation with distributors, suppliers, consultants and service organizations. K-MARA works with a team of external partners who are supervised. The goal is to contractually manage the resulting networks and analyze the costs.",
       "doctor_name": "Dr. Miguel Angel López Aranda",
       "doctor_role": "Head of the Medical Advisory Board",
-      "doctor_desc": "Cardiologist at <strong>Grupo Quirónsalud</strong> and <strong>IMED Hospitals</strong>. His leadership ensures our solutions are clinically relevant and scientifically sound."
+      "doctor_desc": "Cardiologist at <strong>Grupo Quirónsalud</strong>. His leadership ensures our solutions are clinically relevant and scientifically sound.",
+      "sekhar_name": "Dr. Sekhar Kidambi",
+      "sekhar_role": "Founder and Director of K-MARA CARE (India)",
+      "sekhar_desc": "With a three-decade career, he is the cornerstone of our strategy in India and our international expansion. He leads the strategic vision and merges global resources with local needs for flawless execution."
     },
     "team": {
       "title": "A Management Team with a Global Vision",
@@ -139,8 +145,6 @@
       "member1_desc": "With a degree in Information Sciences, she brings vast experience in international business development and tech companies.",
       "member2_role": "International Development Manager",
       "member2_desc": "Trained in Administration and Finance, she leads the global introduction of the Chest Pain Analyzer.",
-      "member3_role": "Founder and Director of K-MARA CARE (India)",
-      "member3_desc": "With a three-decade career, he is the cornerstone of our strategy in India and our international expansion.",
       "more_button": "Learn More"
     },
     "gallery": {

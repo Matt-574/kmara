@@ -8,7 +8,7 @@ const ProductHeader: React.FC = () => {
   const { t } = useTranslation();
   return (
     <div
-      className="relative bg-cover bg-center text-white pt-32 pb-20 bg-product-header"
+      className="relative bg-cover bg-center pt-32 pb-20 bg-product-header"
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="container mx-auto px-6 text-center relative">
@@ -16,7 +16,7 @@ const ProductHeader: React.FC = () => {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
-          className="text-5xl lg:text-7xl font-extrabold mb-8"
+          className="text-5xl lg:text-7xl font-extrabold mb-8 text-primary"
         >
           {t('product_header.title')}
         </motion.h1>
@@ -37,7 +37,7 @@ const ProductHeader: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="bg-white bg-opacity-20 backdrop-blur-md rounded-lg p-4"
           >
-            <p className="text-lg font-semibold">⚡ {t('product_header.feature1')}</p>
+            <p className="text-lg font-semibold text-white">⚡ {t('product_header.feature1')}</p>
           </motion.div>
           <motion.div
             initial={{ opacity: 0, x: 20 }}
@@ -45,7 +45,7 @@ const ProductHeader: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="bg-white bg-opacity-20 backdrop-blur-md rounded-lg p-4"
           >
-            <p className="text-lg font-semibold">✅ {t('product_header.feature3')}</p>
+            <p className="text-lg font-semibold text-white">✅ {t('product_header.feature3')}</p>
           </motion.div>
         </div>
 
@@ -64,7 +64,7 @@ const ProductHeader: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.8 }}
             className="bg-white bg-opacity-20 backdrop-blur-md rounded-lg p-4 inline-block"
           >
-            <p className="text-lg font-semibold">📊 {t('product_header.feature2')}</p>
+            <p className="text-lg font-semibold text-white">📊 {t('product_header.feature2')}</p>
         </motion.div>
       </div>
     </div>

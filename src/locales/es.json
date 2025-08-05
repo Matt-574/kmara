@@ -129,9 +129,15 @@
       "bullet_1": "Asegura que nuestros productos respondan a necesidades médicas no cubiertas.",
       "bullet_2": "Valida la dirección de nuestra investigación y desarrollo.",
       "bullet_3": "Guía nuestra estrategia de acceso al mercado, generando confianza.",
+      "ralf_name": "Ralf Ulrich",
+      "ralf_role": "CEO y Cofundador",
+      "ralf_desc": "Ralf Ulrich CEO y cofundador de K-MARA Healthcare. El departamento de Gestión de Contratos y Finanzas es responsable de la cooperación contractual con distribuidores, proveedores, consultores y organizaciones de servicios. K-MARA trabaja con un equipo de socios externos que son supervisados. El objetivo es gestionar contractualmente las redes resultantes y analizar los costes.",
       "doctor_name": "Dr. Miguel Angel López Aranda",
       "doctor_role": "Jefe del Consejo Asesor Médico",
-      "doctor_desc": "Cardiólogo en <strong>Grupo Quirónsalud</strong> e <strong>IMED Hospitales</strong>. Su liderazgo asegura que nuestras soluciones sean clínicamente relevantes y científicamente sólidas."
+      "doctor_desc": "Cardiólogo en <strong>Grupo Quirónsalud</strong>. Su liderazgo asegura que nuestras soluciones sean clínicamente relevantes y científicamente sólidas.",
+      "sekhar_name": "Dr. Sekhar Kidambi",
+      "sekhar_role": "Fundador y Director de K-MARA CARE (India)",
+      "sekhar_desc": "Con una carrera de tres décadas, es el pilar de nuestra estrategia en la India y nuestra expansión internacional. Lidera la visión estratégica y une los recursos globales con las necesidades locales para una ejecución impecable."
     },
     "team": {
       "title": "Un Equipo Directivo con Visión Global",
@@ -139,8 +145,6 @@
       "member1_desc": "Licenciada en Ciencias de la Información, aporta su vasta experiencia en desarrollo de negocios internacionales y empresas tecnológicas.",
       "member2_role": "Gerente de Desarrollo Internacional",
       "member2_desc": "Formada en Administración y Finanzas, lidera la introducción global del Chest Pain Analyzer.",
-      "member3_role": "Fundador y Director de K-MARA CARE (India)",
-      "member3_desc": "Con una carrera de tres décadas, es el pilar de nuestra estrategia en la India y nuestra expansión internacional.",
       "more_button": "Conocer más"
     },
     "gallery": {

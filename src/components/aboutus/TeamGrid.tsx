@@ -16,7 +16,6 @@ const TeamGrid: React.FC = () => {
   const teamMembers: TeamMember[] = [
     { name: "Polixena Bellver", role: t('about_us.team.member1_role'), description: t('about_us.team.member1_desc'), image: '/images/Polixena.png' },
     { name: "Mª Ángeles García", role: t('about_us.team.member2_role'), description: t('about_us.team.member2_desc'), image: '/images/M. Ángeles.png' },
-    { name: "Dr. Sekhar Kidambi", role: t('about_us.team.member3_role'), description: t('about_us.team.member3_desc'), image: '/images/Sekhar.png', link: "/india" }
   ];
 
   const [selectedId, setSelectedId] = useState<string | null>(null);

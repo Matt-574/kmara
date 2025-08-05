@@ -19,6 +19,12 @@ const AdvisoryBoardSection: React.FC = () => {
       descKey: 'doctor_desc',
       image: '/images/Miguel A.png',
     },
+    {
+ nameKey: 'sekhar_name',
+      roleKey: 'sekhar_role',
+      descKey: 'sekhar_desc',
+      image: '/images/Sekhar.png',
+    },
   ];
 
   const advisoryPoints = [

@@ -13,7 +13,7 @@ const ProductPage: React.FC = () => {
     <div className="relative" style={{ backgroundImage: 'url(/images/1.png)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
       
       <div className="relative z-10 pt-32">
-        <h1 className="text-center text-4xl font-bold text-white mb-16">{t('product_header.title')}</h1>
+        <h1 className="text-center text-4xl font-bold text-primary mb-16">{t('product_header.title')}</h1>
         <ProductHero3D />
       </div>
     </div>
