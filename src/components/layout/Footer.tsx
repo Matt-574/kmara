@@ -5,7 +5,7 @@ import KmaraLogo from '/images/kmara_logo.png';
 
 const Footer: React.FC = () => {
     const { t, i18n } = useTranslation();
-    const currentYear = new Date().getFullYear();
+    const currentYear = 2025;
 
     const navLinks = [
         { to: '/', text: t('navbar.home') },

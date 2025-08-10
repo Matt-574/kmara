@@ -15,13 +15,8 @@ const rowVariants = {
 const IndiaTeamTable: React.FC = () => {
     const { t } = useTranslation();
     const teamData = [
-        { name: t('india.team.member1_name'), value: t('india.team.member1_value'), source: "K-MARA" },
-        { name: t('india.team.member2_name'), value: t('india.team.member2_value'), source: "K-MARA" },
-        { name: t('india.team.member3_name'), value: t('india.team.member3_value'), source: "K-MARA" },
-        { name: t('india.team.member4_name'), value: t('india.team.member4_value'), source: "K-MARA" },
-        { name: t('india.team.member5_name'), value: t('india.team.member5_value'), source: "K-MARA" },
-        { name: t('india.team.member6_name'), value: t('india.team.member6_value'), source: "TECCI" },
-        { name: t('india.team.member7_name'), value: t('india.team.member7_value'), source: "K-MARA" }
+        { name: "Dr. Sekhar Kidambi -Managing Director - K MARA Care Pvt Ltd.", value: t('india.team.member1_value'), source: "K-MARA" },
+        { name: "Mrs. Lalitha Sriram - Director - K MARA Care Pvt Ltd.", value: " ", source: "K-MARA" },
     ];
     
     return (

@@ -22,9 +22,9 @@ const AboutUsCertificateGallery: React.FC = () => {
             pdf: '/certificates/general/Estudio Clinico HFABP EGYPT.pdf'
         },
         {
-            title: "Cartas y Estudios Dr. Aranda",
-            details: "Documentación y estudios compilados por el Dr. Aranda.",
-            pdf: '/certificates/general/Letter and Studies DR. ARANDA.pdf'
+            title: "Cartas y Estudios Dr. Lopez",
+            details: "Documentación y estudios compilados por el Dr. Lopez.",
+            pdf: '/certificates/general/Letter and Studies DR. LOPEZ.pdf'
         },
         {
             title: "JACC Vol. 50, No. 11, 2007",

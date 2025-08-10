@@ -55,7 +55,7 @@ const HeroSlider: React.FC = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, ease: "easeOut" }}
                     >
-                        <span className="text-secondary">{t('hero.title_part1')}</span>
+                        <span className="text-primary">{t('hero.title_part1')}</span>
                         <br />
                         <span>{t('hero.title_part2')}</span>
                     </motion.h1>

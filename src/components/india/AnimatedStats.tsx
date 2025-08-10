@@ -47,7 +47,7 @@ const AnimatedStats: React.FC = () => {
                             animate={isInView ? { opacity: 1, scale: 1 } : {}}
                             transition={{ duration: 0.5, delay: 0.5 + index * 0.2 }}
                         >
-                            <span className="text-5xl font-bold text-secondary">
+                            <span className="text-5xl font-bold text-white">
                                 <CountUp isCounting={isInView} end={stat.value} duration={3} decimalPlaces={stat.decimals || 0} />
                                 {stat.suffix}
                             </span>
