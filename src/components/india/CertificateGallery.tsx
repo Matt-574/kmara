@@ -17,7 +17,7 @@ const CertificateGallery: React.FC = () => {
             pdf: '/certificates/2015_Indian Heart Journal 67 (538-542).pdf'
         },
         {
-            title: "Estudio Prospectivo (Copia)",
+            title: "Estudio Prospectivo",
             details: "Copia del estudio sobre la utilidad de h-FABP como marcador temprano.",
             pdf: '/certificates/2015_Indian Heart Journal 67 (538-542) (1).pdf'
         }
