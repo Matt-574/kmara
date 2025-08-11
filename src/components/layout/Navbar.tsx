@@ -31,17 +31,15 @@ const Navbar: React.FC = () => {
         };
     }, []);
 
-    // Determine navbar classes based on scroll state
     const navbarClasses = scrolled
         ? 'bg-white shadow-md text-gray-800'
         : 'bg-transparent text-white';
     
-    // Determine logo source based on scroll state
     const logoSrc = scrolled ? LOGO_COLOR : LOGO_WHITE;
 
     return (
         <motion.nav 
-            className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${navbarClasses}`}
+            className={`fixed top-0 left-0 right-0 z-[1000] transition-all duration-300 ${navbarClasses}`}
             initial={{ y: -100 }}
             animate={{ y: 0 }}
             transition={{ type: 'spring', stiffness: 120, damping: 20 }}
