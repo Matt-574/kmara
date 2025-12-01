@@ -1,3 +1,4 @@
+
 {
   "numbers": {
     "billions": "billones"
@@ -145,6 +146,8 @@
       "member1_desc": "Licenciada en Ciencias de la Información, aporta su vasta experiencia en desarrollo de negocios internacionales y empresas tecnológicas.",
       "member2_role": "Gerente de Desarrollo Internacional",
       "member2_desc": "Formada en Administración y Finanzas, lidera la introducción global del Chest Pain Analyzer.",
+      "member3_role": "Directora de Relaciones Públicas y Desarrollo de Negocios",
+      "member3_desc": "La Sra. Lalitha Sriram es una profesional dinámica con amplia experiencia en relaciones públicas y gestión de terapias ayurvédicas. Aporta una gran cantidad de conocimientos, sólidas habilidades interpersonales y una experiencia demostrada en la construcción de relaciones estratégicas en diversos sectores. Mantiene una extensa red de contactos influyentes dentro de los organismos gubernamentales tanto estatales como centrales en la India. Como pensadora estratégica y lobista eficaz, se destaca en establecer canales de colaboración con ministerios clave y agencias relevantes. Conocida por su dedicación, integridad y enfoque visionario, contribuye constantemente al crecimiento de la organización con un compromiso inquebrantable. Trabajando en estrecha colaboración con el Fundador y Presidente, desempeña un papel clave en el impulso de los objetivos de la empresa. También brinda apoyo total a los miembros del equipo global, proveedores y socios según sea necesario para garantizar la implementación exitosa de las metas y objetivos definidos.",
       "more_button": "Conocer más"
     },
     "gallery": {
@@ -179,7 +182,9 @@
         "member6_name": "Mr. Karthik Maheshwaram (Presidente - TECCI)",
         "member6_value": "Como líder de la Cámara de Comercio e Industria de Telangana, aporta una influencia y experiencia empresarial vital.",
         "member7_name": "Mr. Y.P. Jayachandra Reddy (Director)",
-        "member7_value": "Empresario influyente en Bangalore, proporciona la infraestructura administrativa y promueve los servicios de K-MARA CARE."
+        "member7_value": "Empresario influyente en Bangalore, proporciona la infraestructura administrativa y promueve los servicios de K-MARA CARE.",
+        "member8_name": "Sra. Lalitha Sriram (Directora de Relaciones Públicas y Desarrollo de Negocios)",
+        "member8_value": "La Sra. Lalitha Sriram es una profesional dinámica con amplia experiencia en relaciones públicas y gestión de terapias ayurvédicas. Aporta una gran cantidad de conocimientos, sólidas habilidades interpersonales y una experiencia demostrada en la construcción de relaciones estratégicas en diversos sectores. Mantiene una extensa red de contactos influyentes dentro de los organismos gubernamentales tanto estatales como centrales en la India. Como pensadora estratégica y lobista eficaz, se destaca en establecer canales de colaboración con ministerios clave y agencias relevantes. Conocida por su dedicación, integridad y enfoque visionario, contribuye constantemente al crecimiento de la organización con un compromiso inquebrantable. Trabajando en estrecha colaboración con el Fundador y Presidente, desempeña un papel clave en el impulso de los objetivos de la empresa. También brinda apoyo total a los miembros del equipo global, proveedores y socios según sea necesario para garantizar la implementación exitosa de las metas y objetivos definidos."
     },
     "gallery": {
         "title": "Galería de Certificados Oficiales",

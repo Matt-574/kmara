@@ -1,3 +1,4 @@
+
 {
   "numbers": {
     "billions": "billions"
@@ -145,6 +146,8 @@
       "member1_desc": "With a degree in Information Sciences, she brings vast experience in international business development and tech companies.",
       "member2_role": "International Development Manager",
       "member2_desc": "Trained in Administration and Finance, she leads the global introduction of the Chest Pain Analyzer.",
+      "member3_role": "Director – Public Relations & Business Development",
+      "member3_desc": "Mrs. Lalitha Sriram is a dynamic professional with extensive expertise in public relations and Ayurvedic therapy management. She brings a wealth of knowledge, strong interpersonal skills, and proven experience in building strategic relationships across various sectors. She maintains an extensive network of influential contacts within both State and Central Government bodies in India. A strategic thinker and an effective lobbyist, she excels in establishing collaborative channels with key ministries and relevant agencies. Known for her dedication, integrity, and visionary approach, she consistently contributes to organizational growth with unwavering commitment. Working closely with the Founder & Chairman, she plays a key role in driving the company’s objectives forward. She also extends full support to the Global Team Members, Vendors, and Partners as needed to ensure the successful implementation of defined goals and targets.",
       "more_button": "Learn More"
     },
     "gallery": {
@@ -179,7 +182,9 @@
         "member6_name": "Mr. Karthik Maheshwaram (President - TECCI)",
         "member6_value": "As leader of the Telangana Chamber of Commerce and Industry, he provides vital business influence and experience.",
         "member7_name": "Mr. Y.P. Jayachandra Reddy (Director)",
-        "member7_value": "An influential entrepreneur in Bangalore, he provides the administrative infrastructure and promotes K-MARA CARE's services."
+        "member7_value": "An influential entrepreneur in Bangalore, he provides the administrative infrastructure and promotes K-MARA CARE's services.",
+        "member8_name": "Mrs. Lalitha Sriram (Director – Public Relations & Business Development)",
+        "member8_value": "Mrs. Lalitha Sriram is a dynamic professional with extensive expertise in public relations and Ayurvedic therapy management. She brings a wealth of knowledge, strong interpersonal skills, and proven experience in building strategic relationships across various sectors. She maintains an extensive network of influential contacts within both State and Central Government bodies in India. A strategic thinker and an effective lobbyist, she excels in establishing collaborative channels with key ministries and relevant agencies. Known for her dedication, integrity, and visionary approach, she consistently contributes to organizational growth with unwavering commitment. Working closely with the Founder & Chairman, she plays a key role in driving the company’s objectives forward. She also extends full support to the Global Team Members, Vendors, and Partners as needed to ensure the successful implementation of defined goals and targets."
     },
     "gallery": {
         "title": "Official Certificate Gallery",

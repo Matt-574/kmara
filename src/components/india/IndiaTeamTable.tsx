@@ -15,8 +15,8 @@ const rowVariants = {
 const IndiaTeamTable: React.FC = () => {
     const { t } = useTranslation();
     const teamData = [
-        { name: "Dr. Sekhar Kidambi -Managing Director - K MARA Care Pvt Ltd.", value: t('india.team.member1_value'), source: "K-MARA" },
-        { name: "Mrs. Lalitha Sriram - Director - K MARA Care Pvt Ltd.", value: " ", source: "K-MARA" },
+        { name: t('india.team.member1_name'), value: t('india.team.member1_value'), source: "K-MARA" },
+        { name: t('india.team.member8_name'), value: t('india.team.member8_value'), source: "K-MARA" },
     ];
     
     return (
