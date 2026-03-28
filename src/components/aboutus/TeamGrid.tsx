@@ -17,6 +17,7 @@ const TeamGrid: React.FC = () => {
     { name: "Polixena Bellver", role: t('about_us.team.member1_role'), description: t('about_us.team.member1_desc'), image: '/images/Polixena.png' },
     { name: "Mª Ángeles García", role: t('about_us.team.member2_role'), description: t('about_us.team.member2_desc'), image: '/images/M. Ángeles.png' },
     { name: "Mrs Lalitha", role: t('about_us.team.member3_role'), description: t('about_us.team.member3_desc'), image: '/images/Sra. Lalitha Sriram.jpg' },
+    { name: "Dr. Raja Gopal", role: t('about_us.team.member4_role'), description: t('about_us.team.member4_desc'), image: '/images/Dr. Raja Gopal.png' },
   ];
 
   const [selectedId, setSelectedId] = useState<string | null>(null);
