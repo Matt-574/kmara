@@ -16,9 +16,8 @@ const IndiaTeamTable: React.FC = () => {
     const { t } = useTranslation();
     const teamData = [
         { name: t('india.team.member1_name'), value: t('india.team.member1_value'), source: "K-MARA" },
-        { name: t('india.team.member9_name'), value: t('india.team.member9_value'), source: "K-MARA" },
         { name: t('india.team.member8_name'), value: t('india.team.member8_value'), source: "K-MARA" },
-        { name: t('india.team.member10_name'), value: t('india.team.member10_value'), source: "K-MARA" },
+        { name: t('india.team.member9_name'), value: t('india.team.member9_value'), source: "K-MARA" },
     ];
     
     return (
